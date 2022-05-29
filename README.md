@@ -12,6 +12,10 @@ Javaの練習用リポジトリ
 
 また学習と並行し備忘録も投稿します
 
+Hatena blogより
+
+- [【備忘録】Java本格入門 Part1](https://mahiro72.hatenablog.com/entry/2022/05/28/204058)
+
 
 <br><br>
 
